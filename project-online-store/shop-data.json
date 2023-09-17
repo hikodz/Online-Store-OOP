@@ -1,0 +1,700 @@
+{
+    "Products_Food": [
+        {
+            "category": "pizzas \ud83c\udf55",
+            "name": "Margherita Pizza",
+            "price": 10.99,
+            "description": "Classic tomato, mozzarella, and basil pizza.",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella cheese",
+                "fresh basil"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "pizzas \ud83c\udf55",
+            "name": "Pepperoni Pizza",
+            "price": 12.99,
+            "description": "Pizza topped with pepperoni slices.",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella cheese",
+                "pepperoni"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "burgers \ud83c\udf54",
+            "name": "Classic Cheeseburger",
+            "price": 8.99,
+            "description": "Beef patty with melted cheese, lettuce, and tomato.",
+            "ingredients": [
+                "beef patty",
+                "cheddar cheese",
+                "lettuce",
+                "tomato"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "burgers \ud83c\udf54",
+            "name": "Mushroom Swiss Burger",
+            "price": 10.99,
+            "description": "Beef patty with saut\u00e9ed mushrooms and Swiss cheese.",
+            "ingredients": [
+                "beef patty",
+                "Swiss cheese",
+                "mushrooms"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "drinks \ud83c\udf7a",
+            "name": "Soda",
+            "price": 1.99,
+            "description": "Carbonated soft drink.",
+            "ingredients": [
+                "carbonated water",
+                "flavorings",
+                "sweeteners"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "drinks \ud83c\udf7a",
+            "name": "Iced Tea",
+            "price": 2.49,
+            "description": "Chilled tea served with ice.",
+            "ingredients": [
+                "tea",
+                "ice",
+                "sweeteners",
+                "lemon (optional)"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "soups \ud83c\udf5c",
+            "name": "Tomato Soup",
+            "price": 4.99,
+            "description": "Classic tomato soup.",
+            "ingredients": [
+                "tomatoes",
+                "vegetable broth",
+                "onion",
+                "garlic"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "soups \ud83c\udf5c",
+            "name": "Chicken Noodle Soup",
+            "price": 5.49,
+            "description": "Soup with chicken, noodles, and vegetables.",
+            "ingredients": [
+                "chicken",
+                "noodles",
+                "chicken broth",
+                "carrots",
+                "celery"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "desserts \ud83e\uddc1",
+            "name": "Chocolate Brownie",
+            "price": 3.99,
+            "description": "Rich chocolate brownie with nuts.",
+            "ingredients": [
+                "chocolate",
+                "flour",
+                "nuts",
+                "sugar"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "desserts \ud83e\uddc1",
+            "name": "Vanilla Ice Cream",
+            "price": 2.99,
+            "description": "Creamy vanilla-flavored ice cream.",
+            "ingredients": [
+                "cream",
+                "sugar",
+                "vanilla extract"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "pizzas \ud83c\udf55",
+            "name": "Hawaiian Pizza",
+            "price": 11.99,
+            "description": "Pizza topped with ham and pineapple.",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella cheese",
+                "ham",
+                "pineapple"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "pizzas \ud83c\udf55",
+            "name": "Supreme Pizza",
+            "price": 13.99,
+            "description": "Pizza loaded with various toppings.",
+            "ingredients": [
+                "tomato sauce",
+                "mozzarella cheese",
+                "pepperoni",
+                "sausage",
+                "bell peppers",
+                "onions",
+                "olives"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "burgers \ud83c\udf54",
+            "name": "BBQ Bacon Burger",
+            "price": 10.99,
+            "description": "Beef patty with BBQ sauce and crispy bacon.",
+            "ingredients": [
+                "beef patty",
+                "cheddar cheese",
+                "bacon",
+                "BBQ sauce"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "burgers \ud83c\udf54",
+            "name": "Veggie Burger",
+            "price": 9.99,
+            "description": "Plant-based patty with lettuce, tomato, and vegan mayo.",
+            "ingredients": [
+                "plant-based patty",
+                "lettuce",
+                "tomato",
+                "vegan mayo"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "drinks \ud83c\udf7a",
+            "name": "Fruit Punch",
+            "price": 2.99,
+            "description": "Refreshing fruit-flavored punch.",
+            "ingredients": [
+                "fruit juices",
+                "sparkling water",
+                "sweeteners"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "drinks \ud83c\udf7a",
+            "name": "Cappuccino",
+            "price": 3.49,
+            "description": "Espresso with steamed milk and milk foam.",
+            "ingredients": [
+                "espresso",
+                "steamed milk",
+                "milk foam"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "soups \ud83c\udf5c",
+            "name": "Lentil Soup",
+            "price": 4.49,
+            "description": "Hearty soup made with lentils and vegetables.",
+            "ingredients": [
+                "lentils",
+                "vegetable broth",
+                "carrots",
+                "onion"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "soups \ud83c\udf5c",
+            "name": "Creamy Mushroom Soup",
+            "price": 5.99,
+            "description": "Rich and creamy soup with mushrooms.",
+            "ingredients": [
+                "mushrooms",
+                "cream",
+                "onion",
+                "garlic"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "desserts \ud83e\uddc1",
+            "name": "Strawberry Shortcake",
+            "price": 4.49,
+            "description": "Delicious shortcake with fresh strawberries and whipped cream.",
+            "ingredients": [
+                "shortcake",
+                "strawberries",
+                "whipped cream"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "desserts \ud83e\uddc1",
+            "name": "Lava Cake",
+            "price": 5.49,
+            "description": "Warm chocolate lava cake with a gooey center.",
+            "ingredients": [
+                "chocolate",
+                "butter",
+                "eggs",
+                "flour"
+            ],
+            "Discount": []
+        },
+        {
+            "category": "pizzas \ud83c\udf55",
+            "name": "Pizza codezilla",
+            "price": 10.85,
+            "description": "New",
+            "ingredients": [
+                "New",
+                "and New"
+            ],
+            "Discount": []
+        }
+    ],
+    "Products_Tech": [
+        {
+            "name": "iPhone 13 Pro",
+            "description": "The latest iPhone with advanced camera and performance.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 999.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 54,
+            "Discount": [],
+            "details": {
+                "display": "6.1-inch Super Retina XDR display",
+                "camera": "Triple 12MP camera system with ProRAW support",
+                "processor": "A15 Bionic chip",
+                "storage": "128GB internal storage",
+                "battery": "Built-in rechargeable lithium-ion battery"
+            }
+        },
+        {
+            "name": "Samsung Galaxy S21 Ultra",
+            "description": "A flagship Android smartphone with a stunning display.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 1099.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 76,
+            "Discount": [],
+            "details": {
+                "display": "6.8-inch Dynamic AMOLED 2X display",
+                "camera": "Quad 108MP camera system with Space Zoom",
+                "processor": "Exynos 2100 / Snapdragon 888",
+                "storage": "256GB internal storage",
+                "battery": "5,000mAh battery with fast charging"
+            }
+        },
+        {
+            "name": "Google Pixel 6",
+            "description": "A Pixel phone known for its exceptional camera capabilities.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 799.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 4,
+            "Discount": [],
+            "details": {
+                "display": "6.4-inch OLED display",
+                "camera": "Dual 50MP main cameras with computational photography",
+                "processor": "Google Tensor SoC",
+                "storage": "128GB internal storage",
+                "battery": "4,614mAh battery with adaptive charging"
+            }
+        },
+        {
+            "name": "Samsung Galaxy S21 Ultra",
+            "description": "A flagship Android smartphone with a stunning display.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 1099.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 43,
+            "Discount": [],
+            "details": {
+                "display": "6.8-inch Dynamic AMOLED 2X display",
+                "camera": "Quad 108MP camera system with Space Zoom",
+                "processor": "Exynos 2100 / Snapdragon 888",
+                "storage": "256GB internal storage",
+                "battery": "5,000mAh battery with fast charging"
+            }
+        },
+        {
+            "name": "OnePlus 9 Pro",
+            "description": "High-performance OnePlus smartphone with smooth display.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 899.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 23,
+            "Discount": [],
+            "details": {
+                "display": "6.7-inch Fluid AMOLED display",
+                "camera": "Quad camera system co-developed with Hasselblad",
+                "processor": "Qualcomm Snapdragon 888",
+                "storage": "256GB internal storage",
+                "battery": "4,500mAh battery with Warp Charge"
+            }
+        },
+        {
+            "name": "Xiaomi Mi 12",
+            "description": "Feature-packed Xiaomi phone with cutting-edge technology.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 749.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 6,
+            "Discount": [],
+            "details": {
+                "display": "6.67-inch AMOLED display",
+                "camera": "Triple 50MP camera system with AI enhancements",
+                "processor": "Qualcomm Snapdragon 898",
+                "storage": "128GB internal storage",
+                "battery": "4,800mAh battery with fast charging"
+            }
+        },
+        {
+            "name": "Sony Xperia 1 III",
+            "description": "Sony's flagship phone with 4K display and impressive audio.",
+            "category": "Smartphones \ud83d\udcf1",
+            "price": 1199.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 33,
+            "Discount": [],
+            "details": {
+                "display": "6.5-inch 4K HDR OLED display",
+                "camera": "Triple 12MP camera system with ZEISS optics",
+                "processor": "Qualcomm Snapdragon 888",
+                "storage": "256GB internal storage",
+                "battery": "4,500mAh battery with fast charging"
+            }
+        },
+        {
+            "name": "Dell XPS 15",
+            "description": "Powerful laptop with stunning 4K InfinityEdge display.",
+            "category": "Laptops \ud83d\udcbb",
+            "price": 1699.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 5,
+            "Discount": [],
+            "details": {
+                "display": "15.6-inch 4K OLED InfinityEdge display",
+                "processor": "Intel Core i7-11800H",
+                "memory": "16GB DDR4 RAM",
+                "storage": "512GB NVMe SSD",
+                "graphics": "NVIDIA GeForce RTX 3050 Ti"
+            }
+        },
+        {
+            "name": "HP Spectre x360",
+            "description": "Convertible laptop with sleek design and versatile functionality.",
+            "category": "Laptops \ud83d\udcbb",
+            "price": 1299.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 7,
+            "Discount": [],
+            "details": {
+                "display": "13.3-inch Full HD touch display",
+                "processor": "Intel Core i5-1135G7",
+                "memory": "8GB DDR4 RAM",
+                "storage": "256GB NVMe SSD",
+                "graphics": "Intel Iris Xe Graphics"
+            }
+        },
+        {
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Business laptop with durability and performance in mind.",
+            "category": "Laptops \ud83d\udcbb",
+            "price": 1499.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 10,
+            "Discount": [],
+            "details": {
+                "display": "14-inch Full HD display",
+                "processor": "Intel Core i7-1165G7",
+                "memory": "16GB LPDDR4X RAM",
+                "storage": "512GB NVMe SSD",
+                "graphics": "Intel Iris Xe Graphics"
+            }
+        },
+        {
+            "name": "Dell XPS 15",
+            "description": "Powerful laptop with stunning 4K InfinityEdge display.",
+            "category": "Laptops \ud83d\udcbb",
+            "price": 1699.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 22,
+            "Discount": [],
+            "details": {
+                "display": "15.6-inch 4K OLED InfinityEdge display",
+                "processor": "Intel Core i7-11800H",
+                "memory": "16GB DDR4 RAM",
+                "storage": "512GB NVMe SSD",
+                "graphics": "NVIDIA GeForce RTX 3050 Ti"
+            }
+        },
+        {
+            "name": "HP Spectre x360",
+            "description": "Convertible laptop with sleek design and versatile functionality.",
+            "category": "Laptops \ud83d\udcbb",
+            "price": 1299.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 2,
+            "Discount": [],
+            "details": {
+                "display": "13.3-inch Full HD touch display",
+                "processor": "Intel Core i5-1135G7",
+                "memory": "8GB DDR4 RAM",
+                "storage": "256GB NVMe SSD",
+                "graphics": "Intel Iris Xe Graphics"
+            }
+        },
+        {
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "description": "Business laptop with durability and performance in mind.",
+            "category": "Laptops \ud83d\udcbb",
+            "price": 1499.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 33,
+            "Discount": [],
+            "details": {
+                "display": "14-inch Full HD display",
+                "processor": "Intel Core i7-1165G7",
+                "memory": "16GB LPDDR4X RAM",
+                "storage": "512GB NVMe SSD",
+                "graphics": "Intel Iris Xe Graphics"
+            }
+        },
+        {
+            "name": "Acer Predator Helios 300",
+            "description": "Gaming laptop with high performance and refresh rate.",
+            "category": "Gaming Laptops \ud83c\udfae",
+            "price": 1299.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 3,
+            "Discount": [],
+            "details": {
+                "display": "15.6-inch Full HD 144Hz display",
+                "processor": "Intel Core i7-10750H",
+                "memory": "16GB DDR4 RAM",
+                "storage": "1TB NVMe SSD",
+                "graphics": "NVIDIA GeForce RTX 3060"
+            }
+        },
+        {
+            "name": "Apple iMac 27-inch",
+            "description": "All-in-one desktop with stunning Retina 5K display.",
+            "category": "Desktop PCs \ud83d\udcbb",
+            "price": 1999.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 12,
+            "Discount": [],
+            "details": {
+                "display": "27-inch Retina 5K display",
+                "processor": "Intel Core i5-10500",
+                "memory": "8GB DDR4 RAM",
+                "storage": "512GB SSD",
+                "graphics": "AMD Radeon Pro 5300"
+            }
+        },
+        {
+            "name": "Asus ROG Strix G15",
+            "description": "Gaming laptop with RGB lighting and high refresh rate.",
+            "category": "Gaming Laptops \ud83c\udfae",
+            "price": 1499.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "quantity": 21,
+            "Discount": [],
+            "details": {
+                "display": "15.6-inch Full HD 240Hz display",
+                "processor": "AMD Ryzen 9 5900HX",
+                "memory": "32GB DDR4 RAM",
+                "storage": "1TB NVMe SSD",
+                "graphics": "NVIDIA GeForce RTX 3070"
+            }
+        }
+    ],
+    "Courses": [
+        {
+            "name": "Introduction to Programming",
+            "description": "Learn the basics of programming and logic.",
+            "category": "Programming",
+            "price": 240,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 342,
+            "Discount": [],
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "details": {
+                "duration": "6 weeks",
+                "level": "Beginner",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Web Development Fundamentals",
+            "description": "Explore front-end and back-end web development.",
+            "category": "Web Development",
+            "price": 149.99,
+            "currency": "USD \ud83d\udcb5",
+            "Discount": [],
+            "availability": true,
+            "students": 3556,
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "details": {
+                "duration": "8 weeks",
+                "level": "Intermediate",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Data Structures and Algorithms",
+            "description": "Master fundamental data structures and algorithms.",
+            "category": "Computer Science",
+            "price": 199.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 544,
+            "Discount": [],
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "details": {
+                "duration": "10 weeks",
+                "level": "Advanced",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Machine Learning Essentials",
+            "description": "Explore the basics of machine learning and AI.",
+            "category": "Artificial Intelligence",
+            "price": 249.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 432,
+            "Discount": [],
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "details": {
+                "duration": "12 weeks",
+                "level": "Intermediate",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Ethical Hacking Masterclass",
+            "description": "Learn ethical hacking techniques and cybersecurity.",
+            "category": "Cybersecurity",
+            "price": 299.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 232,
+            "Discount": [],
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "details": {
+                "duration": "8 weeks",
+                "level": "Advanced",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Full Stack Web Development",
+            "description": "Become a full stack developer with hands-on projects.",
+            "category": "Web Development",
+            "price": 299.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 233,
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "Discount": [],
+            "details": {
+                "duration": "14 weeks",
+                "level": "Intermediate",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Android App Development for Beginners",
+            "description": "Learn the basics of Android app development.",
+            "category": "Mobile App Development",
+            "price": 149.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 43,
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "Discount": [],
+            "details": {
+                "duration": "8 weeks",
+                "level": "Beginner",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Advanced Android App Architecture",
+            "description": "Master modern Android architecture patterns.",
+            "category": "Mobile App Development",
+            "price": 199.99,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 3535,
+            "Discount": [],
+            "rating": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "details": {
+                "duration": "10 weeks",
+                "level": "Advanced",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+            }
+        },
+        {
+            "name": "Ubuntu",
+            "description": "Learn",
+            "category": "Cybersecurity",
+            "price": 20.49,
+            "currency": "USD \ud83d\udcb5",
+            "availability": true,
+            "students": 0,
+            "Discount": [],
+            "rating": "\u2b50\ufe0f",
+            "details": {
+                "duration": "Learn",
+                "level": "Bigenner",
+                "instructor": "Hiko",
+                "language": "Arabic"
+            }
+        }
+    ]
+}

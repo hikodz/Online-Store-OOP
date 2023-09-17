@@ -1,0 +1,42 @@
+{
+    "Admin_DB" : [
+        "HikoDZ", "codezilla@store2023"
+    ],
+    "Data_Users": [
+        {
+            "Name": "Mohamed Gouda",
+            "Info" : ["Gouda123","bloulmohamed2002@gmail.com"],
+            "ID": 283657687,
+            "Password" : "00000000",
+            "Payment_Method":["123456789101112","69","23","888"],
+            "discout_card": {
+                "valid": [],
+                "invalid": []
+            },
+            "whell of fortune": true
+        },
+        {
+            "Name": "Gouda",
+            "Info" : ["Gouda888","Gouda@gmail.com"],
+            "ID": 8497584,
+            "Password" : "HJKG45G",
+            "Payment_Method":["123456789101112","69","23","888"],
+            "discout_card": {
+                "valid": [],
+                "invalid": []
+            },
+            "whell of fortune": true
+        },{
+            "Name": "Mohamed",
+            "Info" : ["Gouda666","mohamed2002@gmail.com"],
+            "ID": 4857485748,
+            "Password" : "46789GUI",
+            "Payment_Method":["123456789101112","69","23","888"],
+            "discout_card": {
+                "valid": [],
+                "invalid": []
+            },
+            "whell of fortune": true
+        }
+    ]
+}

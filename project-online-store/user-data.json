@@ -1,0 +1,84 @@
+{
+    "Admin_DB": [
+        {
+            "Info": [
+                "admin",
+                "bloulmohamed2002@gmail.com"
+            ],
+            "Members": 3,
+            "Password": "admin",
+            "Budjet": 0
+        }
+    ],
+    "Data_Users": [
+        {
+            "Name": "Mohamed Gouda",
+            "Info": [
+                "Gouda",
+                "bloulmohamed2002@gmail.com"
+            ],
+            "ID": 1,
+            "Password": "1234567890",
+            "Payment_Method": [
+                [
+                    "5374434343434343",
+                    "12/34",
+                    "123",
+                    "Meeee",
+                    "Algeria",
+                    "MasterCard"
+                ]
+            ],
+            "discout_card": {
+                "valid": [],
+                "invalid": []
+            },
+            "whell of fortune": true,
+            "Plan": "Premium",
+            "Code_Discount": false
+        },
+        {
+            "Name": "gdfgdf",
+            "Info": [
+                "dgdf",
+                "bloulmohamed2002@gmail.com"
+            ],
+            "ID": 2,
+            "Password": "tita2023",
+            "Payment_Method": [],
+            "discout_card": {
+                "valid": [],
+                "invalid": []
+            },
+            "whell of fortune": true,
+            "Plan": "Free",
+            "Code_Discount": false
+        },
+        {
+            "Name": "Mohamed Ridha",
+            "Info": [
+                "Hiko",
+                "ridamab1973@gmail.com"
+            ],
+            "ID": 3,
+            "Password": "1234567890",
+            "Payment_Method": [
+                [
+                    "5374123456789012",
+                    "12/24",
+                    "000",
+                    "HIKO",
+                    "Algeria",
+                    "MasterCard"
+                ]
+            ],
+            "discout_card": {
+                "valid": [],
+                "invalid": []
+            },
+            "whell of fortune": true,
+            "Plan": "Free",
+            "Code_Discount": "Hik33"
+        }
+    ]
+}

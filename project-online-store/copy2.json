@@ -1,0 +1,612 @@
+{
+    "Products_Food": [
+        {
+        "category": "pizzas",
+        "name": "Margherita Pizza",
+        "price": 10.99,
+        "description": "Classic tomato, mozzarella, and basil pizza.",
+        "ingredients": ["tomato sauce", "mozzarella cheese", "fresh basil"],
+        "image": "margherita_pizza.jpg"
+        },
+        {
+        "category": "pizzas",
+        "name": "Pepperoni Pizza",
+        "price": 12.99,
+        "description": "Pizza topped with pepperoni slices.",
+        "ingredients": ["tomato sauce", "mozzarella cheese", "pepperoni"],
+        "image": "pepperoni_pizza.jpg"
+        },
+        {
+        "category": "burgers",
+        "name": "Classic Cheeseburger",
+        "price": 8.99,
+        "description": "Beef patty with melted cheese, lettuce, and tomato.",
+        "ingredients": ["beef patty", "cheddar cheese", "lettuce", "tomato"],
+        "image": "cheeseburger.jpg"
+        },
+        {
+        "category": "burgers",
+        "name": "Mushroom Swiss Burger",
+        "price": 10.99,
+        "description": "Beef patty with sautéed mushrooms and Swiss cheese.",
+        "ingredients": ["beef patty", "Swiss cheese", "mushrooms"],
+        "image": "mushroom_swiss_burger.jpg"
+        },
+        {
+        "category": "drinks",
+        "name": "Soda",
+        "price": 1.99,
+        "description": "Carbonated soft drink.",
+        "ingredients": ["carbonated water", "flavorings", "sweeteners"],
+        "image": "soda.jpg"
+        },
+        {
+        "category": "drinks",
+        "name": "Iced Tea",
+        "price": 2.49,
+        "description": "Chilled tea served with ice.",
+        "ingredients": ["tea", "ice", "sweeteners", "lemon (optional)"],
+        "image": "iced_tea.jpg"
+        },
+        { 
+        "category": "soups",
+        "name": "Tomato Soup",
+        "price": 4.99,
+        "description": "Classic tomato soup.",
+        "ingredients": ["tomatoes", "vegetable broth", "onion", "garlic"],
+        "image": "tomato_soup.jpg"
+        },
+        {
+        "category": "soups",
+        "name": "Chicken Noodle Soup",
+        "price": 5.49,
+        "description": "Soup with chicken, noodles, and vegetables.",
+        "ingredients": ["chicken", "noodles", "chicken broth", "carrots", "celery"],
+        "image": "chicken_noodle_soup.jpg"
+        },
+        {
+        "category": "desserts",
+        "name": "Chocolate Brownie",
+        "price": 3.99,
+        "description": "Rich chocolate brownie with nuts.",
+        "ingredients": ["chocolate", "flour", "nuts", "sugar"],
+        "image": "chocolate_brownie.jpg"
+        },
+        {
+        "category": "desserts",
+        "name": "Vanilla Ice Cream",
+        "price": 2.99,
+        "description": "Creamy vanilla-flavored ice cream.",
+        "ingredients": ["cream", "sugar", "vanilla extract"],
+        "image": "vanilla_ice_cream.jpg"
+        },
+        {
+            "category": "pizzas",
+            "name": "Hawaiian Pizza",
+            "price": 11.99,
+            "description": "Pizza topped with ham and pineapple.",
+            "ingredients": ["tomato sauce", "mozzarella cheese", "ham", "pineapple"],
+            "image": "hawaiian_pizza.jpg"
+        },
+        {
+            "category": "pizzas",
+            "name": "Supreme Pizza",
+            "price": 13.99,
+            "description": "Pizza loaded with various toppings.",
+            "ingredients": ["tomato sauce", "mozzarella cheese", "pepperoni", "sausage", "bell peppers", "onions", "olives"],
+            "image": "supreme_pizza.jpg"
+        },
+        {
+            "category": "burgers",
+            "name": "BBQ Bacon Burger",
+            "price": 10.99,
+            "description": "Beef patty with BBQ sauce and crispy bacon.",
+            "ingredients": ["beef patty", "cheddar cheese", "bacon", "BBQ sauce"],
+            "image": "bbq_bacon_burger.jpg"
+        },
+        {
+            "category": "burgers",
+            "name": "Veggie Burger",
+            "price": 9.99,
+            "description": "Plant-based patty with lettuce, tomato, and vegan mayo.",
+            "ingredients": ["plant-based patty", "lettuce", "tomato", "vegan mayo"],
+            "image": "veggie_burger.jpg"
+        },
+        {
+            "category": "drinks",
+            "name": "Fruit Punch",
+            "price": 2.99,
+            "description": "Refreshing fruit-flavored punch.",
+            "ingredients": ["fruit juices", "sparkling water", "sweeteners"],
+            "image": "fruit_punch.jpg"
+        },
+        {
+            "category": "drinks",
+            "name": "Cappuccino",
+            "price": 3.49,
+            "description": "Espresso with steamed milk and milk foam.",
+            "ingredients": ["espresso", "steamed milk", "milk foam"],
+            "image": "cappuccino.jpg"
+        },
+        {
+            "category": "soups",
+            "name": "Lentil Soup",
+            "price": 4.49,
+            "description": "Hearty soup made with lentils and vegetables.",
+            "ingredients": ["lentils", "vegetable broth", "carrots", "onion"],
+            "image": "lentil_soup.jpg"
+        },
+        {
+            "category": "soups",
+            "name": "Creamy Mushroom Soup",
+            "price": 5.99,
+            "description": "Rich and creamy soup with mushrooms.",
+            "ingredients": ["mushrooms", "cream", "onion", "garlic"],
+            "image": "creamy_mushroom_soup.jpg"
+        },
+        {
+            "category": "desserts",
+            "name": "Strawberry Shortcake",
+            "price": 4.49,
+            "description": "Delicious shortcake with fresh strawberries and whipped cream.",
+            "ingredients": ["shortcake", "strawberries", "whipped cream"],
+            "image": "strawberry_shortcake.jpg"
+        },
+        {
+            "category": "desserts",
+            "name": "Lava Cake",
+            "price": 5.49,
+            "description": "Warm chocolate lava cake with a gooey center.",
+            "ingredients": ["chocolate", "butter", "eggs", "flour"],
+            "image": "lava_cake.jpg"
+        }
+        ],
+        "Products_Tech": [
+            {
+                "id": 1,
+                "name": "iPhone 13 Pro 📱",
+                "description": "The latest iPhone with advanced camera and performance.",
+                "category": "Smartphones 📱",
+                "price": 999.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 54,
+                "details": {
+                    "display": "6.1-inch Super Retina XDR display",
+                    "camera": "Triple 12MP camera system with ProRAW support",
+                    "processor": "A15 Bionic chip",
+                    "storage": "128GB internal storage",
+                    "battery": "Built-in rechargeable lithium-ion battery"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Samsung Galaxy S21 Ultra 📱",
+                "description": "A flagship Android smartphone with a stunning display.",
+                "category": "Smartphones 📱",
+                "price": 1099.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 76,
+                "details": {
+                    "display": "6.8-inch Dynamic AMOLED 2X display",
+                    "camera": "Quad 108MP camera system with Space Zoom",
+                    "processor": "Exynos 2100 / Snapdragon 888",
+                    "storage": "256GB internal storage",
+                    "battery": "5,000mAh battery with fast charging"
+                }
+            },
+            {
+                "id": 3,
+                "name": "Google Pixel 6 📱",
+                "description": "A Pixel phone known for its exceptional camera capabilities.",
+                "category": "Smartphones 📱",
+                "price": 799.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 4,
+                "details": {
+                    "display": "6.4-inch OLED display",
+                    "camera": "Dual 50MP main cameras with computational photography",
+                    "processor": "Google Tensor SoC",
+                    "storage": "128GB internal storage",
+                    "battery": "4,614mAh battery with adaptive charging"
+                            }  
+            },
+            {
+                "id": 4,
+                "name": "iPhone 13 Pro 📱",
+                "description": "The latest iPhone with advanced camera and performance.",
+                "category": "Smartphones 📱",
+                "price": 999.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 12,
+                "details": {
+                    "display": "6.1-inch Super Retina XDR display",
+                    "camera": "Triple 12MP camera system with ProRAW support",
+                    "processor": "A15 Bionic chip",
+                    "storage": "128GB internal storage",
+                    "battery": "Built-in rechargeable lithium-ion battery"
+                }
+            },
+                {
+                "id": 5,
+                "name": "Samsung Galaxy S21 Ultra 📱",
+                "description": "A flagship Android smartphone with a stunning display.",
+                "category": "Smartphones 📱",
+                "price": 1099.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 43,
+                "details": {
+                    "display": "6.8-inch Dynamic AMOLED 2X display",
+                    "camera": "Quad 108MP camera system with Space Zoom",
+                    "processor": "Exynos 2100 / Snapdragon 888",
+                    "storage": "256GB internal storage",
+                    "battery": "5,000mAh battery with fast charging"
+                }
+            },
+                {
+                "id": 6,
+                "name": "Google Pixel 6 📱",
+                "description": "A Pixel phone known for its exceptional camera capabilities.",
+                "category": "Smartphones 📱",
+                "price": 799.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 32,
+                "details": {
+                    "display": "6.4-inch OLED display",
+                    "camera": "Dual 50MP main cameras with computational photography",
+                    "processor": "Google Tensor SoC",
+                    "storage": "128GB internal storage",
+                    "battery": "4,614mAh battery with adaptive charging"
+                }
+            },
+                {
+                "id": 7,
+                "name": "OnePlus 9 Pro 📱",
+                "description": "High-performance OnePlus smartphone with smooth display.",
+                "category": "Smartphones 📱",
+                "price": 899.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 23,
+                "details": {
+                    "display": "6.7-inch Fluid AMOLED display",
+                    "camera": "Quad camera system co-developed with Hasselblad",
+                    "processor": "Qualcomm Snapdragon 888",
+                    "storage": "256GB internal storage",
+                    "battery": "4,500mAh battery with Warp Charge"
+                }
+            },
+                {
+                "id": 8,
+                "name": "Xiaomi Mi 12 📱",
+                "description": "Feature-packed Xiaomi phone with cutting-edge technology.",
+                "category": "Smartphones 📱",
+                "price": 749.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 6,
+                "details": {
+                    "display": "6.67-inch AMOLED display",
+                    "camera": "Triple 50MP camera system with AI enhancements",
+                    "processor": "Qualcomm Snapdragon 898",
+                    "storage": "128GB internal storage",
+                    "battery": "4,800mAh battery with fast charging"
+                }
+            },
+                {
+                "id": 9,
+                "name": "Sony Xperia 1 III 📱",
+                "description": "Sony's flagship phone with 4K display and impressive audio.",
+                "category": "Smartphones 📱",
+                "price": 1199.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 33,
+                "details": {
+                    "display": "6.5-inch 4K HDR OLED display",
+                    "camera": "Triple 12MP camera system with ZEISS optics",
+                    "processor": "Qualcomm Snapdragon 888",
+                    "storage": "256GB internal storage",
+                    "battery": "4,500mAh battery with fast charging"
+                }
+            },
+            {
+                "id": 10,
+                "name": "Dell XPS 15 💻",
+                "description": "Powerful laptop with stunning 4K InfinityEdge display.",
+                "category": "Laptops 💻",
+                "price": 1699.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 5,
+                "details": {
+                    "display": "15.6-inch 4K OLED InfinityEdge display",
+                    "processor": "Intel Core i7-11800H",
+                    "memory": "16GB DDR4 RAM",
+                    "storage": "512GB NVMe SSD",
+                    "graphics": "NVIDIA GeForce RTX 3050 Ti"
+                }
+            },
+                {
+                "id": 11,
+                "name": "HP Spectre x360 💻",
+                "description": "Convertible laptop with sleek design and versatile functionality.",
+                "category": "Laptops 💻",
+                "price": 1299.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 7,
+                "details": {
+                    "display": "13.3-inch Full HD touch display",
+                    "processor": "Intel Core i5-1135G7",
+                    "memory": "8GB DDR4 RAM",
+                    "storage": "256GB NVMe SSD",
+                    "graphics": "Intel Iris Xe Graphics"
+                }
+            },
+                {
+                "id": 12,
+                "name": "Lenovo ThinkPad X1 Carbon 💻",
+                "description": "Business laptop with durability and performance in mind.",
+                "category": "Laptops 💻",
+                "price": 1499.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 10,
+                "details": {
+                    "display": "14-inch Full HD display",
+                    "processor": "Intel Core i7-1165G7",
+                    "memory": "16GB LPDDR4X RAM",
+                    "storage": "512GB NVMe SSD",
+                    "graphics": "Intel Iris Xe Graphics"
+                }
+            },
+            {
+                "id": 1,
+                "name": "Dell XPS 15 💻",
+                "description": "Powerful laptop with stunning 4K InfinityEdge display.",
+                "category": "Laptops 💻",
+                "price": 1699.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 22,
+                "details": {
+                    "display": "15.6-inch 4K OLED InfinityEdge display",
+                    "processor": "Intel Core i7-11800H",
+                    "memory": "16GB DDR4 RAM",
+                    "storage": "512GB NVMe SSD",
+                    "graphics": "NVIDIA GeForce RTX 3050 Ti"
+                }
+            },
+                {
+                "id": 2,
+                "name": "HP Spectre x360 💻",
+                "description": "Convertible laptop with sleek design and versatile functionality.",
+                "category": "Laptops 💻",
+                "price": 1299.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 2,
+                "details": {
+                    "display": "13.3-inch Full HD touch display",
+                    "processor": "Intel Core i5-1135G7",
+                    "memory": "8GB DDR4 RAM",
+                    "storage": "256GB NVMe SSD",
+                    "graphics": "Intel Iris Xe Graphics"
+                }
+            },
+                {
+                "id": 3,
+                "name": "Lenovo ThinkPad X1 Carbon 💻",
+                "description": "Business laptop with durability and performance in mind.",
+                "category": "Laptops 💻",
+                "price": 1499.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 33,
+                "details": {
+                    "display": "14-inch Full HD display",
+                    "processor": "Intel Core i7-1165G7",
+                    "memory": "16GB LPDDR4X RAM",
+                    "storage": "512GB NVMe SSD",
+                    "graphics": "Intel Iris Xe Graphics"
+                }
+            },
+                {
+                "id": 4,
+                "name": "Acer Predator Helios 300 🎮",
+                "description": "Gaming laptop with high performance and refresh rate.",
+                "category": "Gaming Laptops 🎮",
+                "price": 1299.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 3,
+                "details": {
+                    "display": "15.6-inch Full HD 144Hz display",
+                    "processor": "Intel Core i7-10750H",
+                    "memory": "16GB DDR4 RAM",
+                    "storage": "1TB NVMe SSD",
+                    "graphics": "NVIDIA GeForce RTX 3060"
+                }
+            },
+                {
+                "id": 5,
+                "name": "Apple iMac 27-inch 💻",
+                "description": "All-in-one desktop with stunning Retina 5K display.",
+                "category": "Desktop PCs 💻",
+                "price": 1999.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 12,
+                "details": {
+                    "display": "27-inch Retina 5K display",
+                    "processor": "Intel Core i5-10500",
+                    "memory": "8GB DDR4 RAM",
+                    "storage": "512GB SSD",
+                    "graphics": "AMD Radeon Pro 5300"
+                }
+            },
+                {
+                "id": 6,
+                "name": "Asus ROG Strix G15 🎮",
+                "description": "Gaming laptop with RGB lighting and high refresh rate.",
+                "category": "Gaming Laptops 🎮",
+                "price": 1499.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "quantity" : 21,
+                "details": {
+                    "display": "15.6-inch Full HD 240Hz display",
+                    "processor": "AMD Ryzen 9 5900HX",
+                    "memory": "32GB DDR4 RAM",
+                    "storage": "1TB NVMe SSD",
+                    "graphics": "NVIDIA GeForce RTX 3070"
+                }
+            }
+        ],
+        "Courses": [
+            {
+            "id": 1,
+            "name": "Introduction to Programming",
+            "description": "Learn the basics of programming and logic.",
+            "category": "Programming",
+            "price": 240,
+            "currency": "USD 💵",
+            "availability": true,
+            "students" : 342,
+            "rating"  : "⭐️⭐️⭐️⭐️",
+            "details": {
+                "duration": "6 weeks",
+                "level": "Beginner",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+                }
+            },
+            {
+            "id": 2,
+            "name": "Web Development Fundamentals",
+            "description": "Explore front-end and back-end web development.",
+            "category": "Web Development",
+            "price": 149.99,
+            "currency": "USD 💵",
+            "availability": true,
+            "students" : 3556,
+            "rating"  : "⭐️⭐️⭐️⭐️⭐️",
+            "details": {
+                "duration": "8 weeks",
+                "level": "Intermediate",
+                "instructor": "Islam and Mohamed Gouda",
+                "language": "Arabic"
+                }
+            },
+            {
+            "id": 3,
+            "name": "Data Structures and Algorithms",
+            "description": "Master fundamental data structures and algorithms.",
+            "category": "Computer Science",
+            "price": 199.99,
+            "currency": "USD 💵",
+            "availability": true,
+            "students" : 544,
+            "rating"  : "⭐️⭐️⭐️⭐️",
+            "details": {
+                "duration": "10 weeks",
+                "level": "Advanced",
+                "instructor": "Islam and Mohamed Gouda" ,
+                "language": "Arabic"
+                }
+            },
+            {
+                "id": 4,
+                "name": "Machine Learning Essentials",
+                "description": "Explore the basics of machine learning and AI.",
+                "category": "Artificial Intelligence",
+                "price": 249.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "students" : 432,
+                "rating"  : "⭐️⭐️⭐️⭐️⭐️",
+                "details": {
+                    "duration": "12 weeks",
+                    "level": "Intermediate",
+                    "instructor": "Islam and Mohamed Gouda",
+                    "language": "Arabic"
+                }
+            },
+            {
+                "id": 5,
+                "name": "Ethical Hacking Masterclass",
+                "description": "Learn ethical hacking techniques and cybersecurity.",
+                "category": "Cybersecurity",
+                "price": 299.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "students" : 232,
+                "rating"  : "⭐️⭐️⭐️⭐️",
+                "details": {
+                    "duration": "8 weeks",
+                    "level": "Advanced",
+                    "instructor": "Islam and Mohamed Gouda",
+                    "language": "Arabic"
+                }
+            },
+            {
+                "id": 6,
+                "name": "Full Stack Web Development",
+                "description": "Become a full stack developer with hands-on projects.",
+                "category": "Web Development",
+                "price": 299.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "students" : 233,
+                "rating"  : "⭐️⭐️⭐️⭐️⭐️",
+                "details": {
+                    "duration": "14 weeks",
+                    "level": "Intermediate",
+                    "instructor": "Islam and Mohamed Gouda",
+                    "language": "Arabic"
+                }
+            },
+            {
+                "id": 7,
+                "name": "Android App Development for Beginners",
+                "description": "Learn the basics of Android app development.",
+                "category": "Mobile App Development",
+                "price": 149.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "students" : 43,
+                "rating"  : "⭐️⭐️⭐️⭐️⭐️",
+                "details": {
+                    "duration": "8 weeks",
+                    "level": "Beginner",
+                    "instructor": "Islam and Mohamed Gouda",
+                    "language": "Arabic"
+                }
+            },
+            {
+                "id": 8,
+                "name": "Advanced Android App Architecture",
+                "description": "Master modern Android architecture patterns.",
+                "category": "Mobile App Development",
+                "price": 199.99,
+                "currency": "USD 💵",
+                "availability": true,
+                "students" : 3535,
+                "rating"  : "⭐️⭐️⭐️⭐️",
+                "details": {
+                    "duration": "10 weeks",
+                    "level": "Advanced",
+                    "instructor": "Islam and Mohamed Gouda",
+                    "language": "Arabic"
+                }
+            }
+            
+        ] 
+}
+

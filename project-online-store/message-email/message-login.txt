@@ -1,0 +1,39 @@
+Subject: Security Alert: Unusual Activity Detected on Your Account
+
+Dear [User's Name],
+
+Your security is of paramount importance to us at [Your Website Name]. We have detected some unusual activity on your account, and we are taking immediate steps to ensure the safety of your personal information.
+
+What We've Detected:
+
+- Location Change: A recent login attempt was made from an unfamiliar location.
+- Unusual Access Times: Login activity occurred during non-typical hours for your account.
+
+What You Need to Do:
+
+1. Verify Recent Activity: If you were the one who attempted to log in from the mentioned location and time, please disregard this alert.
+
+2. Secure Your Account: If you did not initiate this activity, we strongly recommend taking the following steps:
+   - Change Password: Log in to your account and change your password immediately. Make sure to choose a strong, unique password.
+   - Enable Two-Factor Authentication (2FA): Activate 2FA for an extra layer of security. This will help prevent unauthorized access even if someone obtains your password.
+
+3. Review Account Settings: Check your account settings for any unauthorized changes, such as email addresses, contact information, or payment methods.
+
+4. Monitor Your Account: Keep an eye on your account for any unusual transactions or activities. If you notice anything suspicious, please contact our customer support team immediately.
+
+Contact Us:
+
+If you need any assistance or have questions about this security alert, please don't hesitate to contact our dedicated customer support team at [customer support email or phone number]. We're here to help you ensure the security of your account.
+
+Your trust in [Your Website Name] is our top priority, and we will continue to work tirelessly to provide you with a secure and seamless online shopping experience.
+
+Thank you for your immediate attention to this matter.
+
+Stay safe and secure,
+
+The [Your Website Name] Security Team
+
+[Website Logo/Image]
+[Website URL]
+[Contact Information]
+[Social Media Links]
